@@ -1,28 +1,55 @@
-# 👋 Hi, I'm Mrbotrx
 
-🚀 Passionate Developer | 💻 Tech Enthusiast | 🌱 Always Learning
+<h1 align="center">👋 Hi, I'm Mrbotrx</h1>
+<h3 align="center">💻 Developer | 📺 IPTV Enthusiast | 🚀 Builder</h3>
 
-## 👨‍💻 About Me
-- 🔭 Currently working on exciting projects
-- 🌱 Learning Web Development & Cyber Security
-- 💡 Love Open Source and new technologies
-- ⚡ Goal: Become a skilled Full-Stack Developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mrbotrx&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 📺 About Me
+- 🔭 Working on IPTV & Streaming Projects
+- 🌱 Learning Web Development & Media Systems
+- 🎯 Focused on building clean UI IPTV players
+- 💡 Interested in automation & streaming tech
+
+---
 
 ## 🛠️ Tech Stack
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
-- Python
 - Git & GitHub
 
+---
+
+## 📺 IPTV Project Focus
+- 🎥 Live TV Interface Design
+- 📂 M3U Playlist Player
+- 🔍 Channel Search System
+- 📱 Mobile Friendly IPTV UI
+
+---
+
+## ⚠️ Disclaimer
+All projects are for **educational purposes only**.  
+No illegal streaming content is used or promoted.
+
+---
+
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrbotrx&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrbotrx&show_icons=true&theme=github_dark" />
+</p>
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Mrbotrx&theme=tokyonight)
+---
 
-## 🌐 Connect With Me
+## 🤝 Connect
 - GitHub: https://github.com/Mrbotrx
 
 ---
-⭐ Thanks for visiting my profile! Have a great day! 😊
+
+<p align="center">
+  ⭐ Code. Build. Stream. Repeat. 🚀
+</p>
