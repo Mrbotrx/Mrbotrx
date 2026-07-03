@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Mrbotrx
 
-<!--
-**Mrbotrx/Mrbotrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Developer | 💻 Tech Enthusiast | 🌱 Always Learning
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 Currently working on exciting projects
+- 🌱 Learning Web Development & Cyber Security
+- 💡 Love Open Source and new technologies
+- ⚡ Goal: Become a skilled Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrbotrx&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Mrbotrx&theme=tokyonight)
+
+## 🌐 Connect With Me
+- GitHub: https://github.com/Mrbotrx
+
+---
+⭐ Thanks for visiting my profile! Have a great day! 😊
